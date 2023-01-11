@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/openlabrador/portfolio-test/static/css/main.008b7980.css",
+    "main.js": "/openlabrador/portfolio-test/static/js/main.670a9dc0.js",
+    "static/media/Team_Caisse_d’Epargne.svg": "/openlabrador/portfolio-test/static/media/Team_Caisse_d’Epargne.38eb638bf9b150e41ac140fd585e3f9c.svg",
+    "index.html": "/openlabrador/portfolio-test/index.html",
+    "static/media/Twitter-logo.svg": "/openlabrador/portfolio-test/static/media/Twitter-logo.0994819c4416f510adad167ed5b5828b.svg",
+    "static/media/YouTube_social_white_squircle.svg": "/openlabrador/portfolio-test/static/media/YouTube_social_white_squircle.c9e4995782ed3e1f452a2322763e7af4.svg",
+    "main.008b7980.css.map": "/openlabrador/portfolio-test/static/css/main.008b7980.css.map",
+    "main.670a9dc0.js.map": "/openlabrador/portfolio-test/static/js/main.670a9dc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008b7980.css",
+    "static/js/main.670a9dc0.js"
+  ]
+}
